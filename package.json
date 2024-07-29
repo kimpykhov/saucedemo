@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  },
+  "dependencies": {
+    "harrypotter-names": "^1.1.0"
+  }
+}
